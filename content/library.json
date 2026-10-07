@@ -1,0 +1,17 @@
+[
+  {
+    "id": "computer",
+    "theme": "blue",
+    "monogram": "CS"
+  },
+  {
+    "id": "java",
+    "theme": "orange",
+    "monogram": "Jv"
+  },
+  {
+    "id": "boki",
+    "theme": "green",
+    "monogram": "簿"
+  }
+]
